@@ -11,4 +11,5 @@ Submitting the same or substantially similar work in multiple courses, either in
 or in a different semester, without the express approval of all instructors is strictly forbidden.
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for
 the project and course.
+
 With this project we have executed a study of citibank through the study of demographics, mainly age and gender. We have come to the conclusion that citibike should mainly focus on marketing their program to males between the ages of 18-30 and 60-80 given that these users experience the highest average cost per minute from riding. If Citi Bike attracts customers who use the program least, they will be able to spread their assets amonst more customers. Unfortunately, we were unable to provide significant correlations between variables in our data and a further investigation with a larger dataset should be done to prove our conclusions.
